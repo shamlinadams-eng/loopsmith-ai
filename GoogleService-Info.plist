@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>666214661695-5cod518gcrae4rgcc7skhsds31jlfo0f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.666214661695-5cod518gcrae4rgcc7skhsds31jlfo0f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtu-poq92bfO0SDjUvikMR5g8Tjt6kUsY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>666214661695</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.loopsmithai.app</string>
+	<key>PROJECT_ID</key>
+	<string>loopsmith-ai</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loopsmith-ai.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:666214661695:ios:c4afaf2a86820a4f51428a</string>
+</dict>
+</plist>
